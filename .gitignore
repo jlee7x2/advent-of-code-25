@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+inputs/*.txt
+!inputs/example*.txt
